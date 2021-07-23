@@ -1,6 +1,11 @@
-### Hi there 👋
+<h6 align="center">Welcome to lmietletoe GIT HUB</h6>
 
+<h3 align="center">Tech Steak</h3>
+ 
+<img src="https://windowsforum.kr/files/attach/images/2966154/285/612/002/5046c4fa8f56d11e79373156c97cffe7.jpg"/>
+ 
 
+<!-- ### Hi there 👋
 **Lmistletoe/Lmistletoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ -->
 
-<h3 align="center">Tech Steak</h3>
 
-<p align="center">Welcome to lmietletoe GIT HUB</p>
