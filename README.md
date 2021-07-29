@@ -8,7 +8,7 @@
 <!-- Github status  -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lmistletoe&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-<div><a src="https://github.com/anuraghazra/github-readme-stats" style="border: solid 1px blue">card url</a></div>
+<a src="https://github.com/anuraghazra/github-readme-stats" style="border: solid 1px blue">card url</a>
 
 <!-- ice image  -->
 <!-- <img src="https://windowsforum.kr/files/attach/images/2966154/285/612/002/5046c4fa8f56d11e79373156c97cffe7.jpg"/> -->
