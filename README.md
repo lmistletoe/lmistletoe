@@ -9,6 +9,8 @@
 <img align="center" src="https://camo.githubusercontent.com/d68effc01de0d0a20bcfa45a0c58adedc124292711eb8a8fcf6276fa4d92f821/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d646f6e6773696b39332673686f775f69636f6e733d74727565267468656d653d64726163756c6126696e636c7564655f616c6c5f636f6d6d6974733d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Lmistletoe&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true" style="max-width:100%;">
 </a>
  
+ 
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lmistletoe)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ice image  -->
 <!-- <img src="https://windowsforum.kr/files/attach/images/2966154/285/612/002/5046c4fa8f56d11e79373156c97cffe7.jpg"/> -->
 
