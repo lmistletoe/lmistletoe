@@ -10,7 +10,7 @@
 </div> 
  
 <!-- Github status  --><!-- url: https://80000coding.oopy.io/865f4b2a-5198-49e8-a173-0f893a4fed45 -->
-<img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=Lmistletoe&show_icons=true&theme=cobalt"/>
+<img style="align:right; width: 400px;" src="https://github-readme-stats.vercel.app/api?username=Lmistletoe&show_icons=true&theme=cobalt"/>
 
 
 <!-- 꿈틀이 -->
