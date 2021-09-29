@@ -2,7 +2,7 @@
 
 
 <!-- card  -->
-<div align="left">
+<div align=left>
  
 [![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&link=https://lmietletoe.tistory.com)](https://lmietletoe.tistory.com)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imdlqudgml@gmail.com)](mailto:imdlqudgml@gmail.com)
@@ -10,7 +10,7 @@
 </div> 
  
 <!-- Github status  --><!-- url: https://80000coding.oopy.io/865f4b2a-5198-49e8-a173-0f893a4fed45 -->
-<img style="align:right; width: 400px;" src="https://github-readme-stats.vercel.app/api?username=Lmistletoe&show_icons=true&theme=cobalt"/>
+<img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=Lmistletoe&show_icons=true&theme=cobalt"/>
 
 
 <!-- 꿈틀이 -->
