@@ -2,8 +2,9 @@
 
 <h3 align="center">Tech Steak</h3>
  
-<!-- blog link  -->
-<a href="https://lmietletoe.tistory.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/29fe325c3b4d33c661be3b52cc37a6e3572a91f11bb37956f967805fb74ebeb7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426c6f672d4444304237383f7374796c653d666c61742d737175617265266c6f676f3d47697448756225323053706f6e736f7273266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&amp;logo=GitHub%20Sponsors&amp;logoColor=white" style="max-width:100%;"></a>
+[![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&link=https://lmietletoe.tistory.com)](https://lmietletoe.tistory.com) <!-- blog link  -->
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imdlqudgml@gmail.com)](mailto:imdlqudgml@gmail.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLmistletoe&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://github.com/Lmistletoe)
  
 <!-- Github status  -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lmistletoe&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
