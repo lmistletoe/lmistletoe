@@ -12,9 +12,9 @@
 <!-- skill list -->
 <div display="inline-block">
 <h3 align="left">Tech Stack</h3>
-I'm full stack developer. \n
-I don't want to lose any position.
-So i try step by step.</p>
+I'm full stack developer.<br>
+I don't want to lose any position.<br>
+So i try step by step.
 </div>
                          
 <!-- Github status  --><!-- url: https://80000coding.oopy.io/865f4b2a-5198-49e8-a173-0f893a4fed45 -->
