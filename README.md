@@ -8,7 +8,8 @@
  
  
 <!-- Github status  -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lmistletoe&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<img style="align:right; width: 400px;" src="https://github-readme-stats.vercel.app/api?username=Lmistletoe&show_icons=true&theme=cobalt"/>(https:/github.com/Lmistletoe)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lmistletoe&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!-- 꿈틀이 -->
