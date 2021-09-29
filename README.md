@@ -9,9 +9,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLmistletoe&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://github.com/Lmistletoe)
 </div> 
  
-<!-- Github status  -->
-<img style="align:right; width: 400px;" src="https://github-readme-stats.vercel.app/api?username=Lmistletoe&show_icons=true&theme=cobalt"/>(https:/github.com/Lmistletoe)
-<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lmistletoe&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- Github status  --><!-- url: https://80000coding.oopy.io/865f4b2a-5198-49e8-a173-0f893a4fed45 -->
+<img align="right" width="400px";" src="https://github-readme-stats.vercel.app/api?username=Lmistletoe&show_icons=true&theme=cobalt"/>
 
 
 <!-- 꿈틀이 -->
