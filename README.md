@@ -17,7 +17,7 @@
 **Lmistletoe/Lmistletoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!-- 꿈틀이 -->
-<img src="https://raw.githubusercontent.com/Lmistletoe/Lmistletoe/github-user-contribution.svg" alt="Image of Yaktocat" style="max-width: 100%;">
+<img src="https://github.com/tkdgusl94/tkdgusl94/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%;">
 
 Here are some ideas to get you started:
 
